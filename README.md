@@ -4,3 +4,4 @@ This is my first learning github repository
 Hello World
 <br>
 Divyansh Tiwari
+B.tech CS(DS+AI)
